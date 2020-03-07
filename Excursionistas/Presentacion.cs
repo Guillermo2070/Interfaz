@@ -19,6 +19,7 @@ namespace Excursionistas
             InitializeComponent();
         }
 
+        // Prueba
         Entidad _Entidad = new Entidad();
 
         private void BtnVerificar_Click(object sender, EventArgs e)
